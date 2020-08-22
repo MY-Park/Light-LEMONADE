@@ -12,7 +12,10 @@ Evolutionary algorithm으로 Neural Architecture Search를 수행합니다. Mult
 
 - Google Colab 환경에서 개발하였습니다.
 
-알고리즘에 대한 자세한 설명은 프로젝트 보고서 [https://github.com/MY-Park/Light-LEMONADE/blob/master/term_project_report_20203758.pdf](https://github.com/MY-Park/Light-LEMONADE/blob/master/term_project_report_20203758.pdf)를 확인해주세요.
+프로젝트 전체 코드 : [https://github.com/MY-Park/Light-LEMONADE/blob/master/Light_LEMONADE.ipynb](https://github.com/MY-Park/Light-LEMONADE/blob/master/Light_LEMONADE.ipynb)
+
+
+프로젝트 보고서 : [https://github.com/MY-Park/Light-LEMONADE/blob/master/term_project_report_20203758.pdf](https://github.com/MY-Park/Light-LEMONADE/blob/master/term_project_report_20203758.pdf)
 
 ## References
 
