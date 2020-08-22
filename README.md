@@ -15,6 +15,7 @@ Google Colab에서 개발하였습니다.
 ## References
 
 [1] Efficient Multi-objective Neural Architecture Search via Lamarckian Evolution, Thomas Elsken et al. (ICLR 2019)
+
 [2] Fashion-MNIST dataset (https://github.com/zalandoresearch/fashion-mnist)
 
 
